@@ -1,1 +1,2 @@
-# indiv_project
+<!-- This is a netflixl roulette app
+ -->

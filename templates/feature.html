@@ -1,0 +1,21 @@
+{% extends "bootstrap/base.html" %}
+
+    {% block styles %}
+    {{super()}}
+      <link rel="stylesheet" href="{{ url_for('static',filename='css/styles/mainpage.css') }}">
+      {% endblock %}
+
+{% block content %}
+<html>
+	<div class="feature"> 
+				<h2>{{ movie["show_title"] }} </h2>
+				<p> Year: {{ movie["release_year"] }} </p>
+				<p> Rating: {{ movie["rating"] }} </p>
+				<p> Cast: {{ movie["show_cast"] }} </p>
+				<p> Director: {{ movie["director"] }} </p>
+				<p> Plot Summary: {{ movie["summary"] }} </p>
+				<p> Lenght: {{ movie["runtime"] }} </p>
+	</div>
+</html>
+
+{% endblock %}
