@@ -1,2 +1,1 @@
-<!-- This is a netflixl roulette app
- -->
+<h1>This web app helps you determing which movies to watch using a Netflix API that, unfortunately is no longer updated with the current Netflix selections</h1>
