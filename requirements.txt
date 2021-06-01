@@ -63,7 +63,7 @@ sunlight==1.2.9
 tornado==4.4.1
 tweepy==3.5.0
 tweetpy==0.1
-urllib3==1.16
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
