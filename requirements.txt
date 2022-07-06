@@ -33,7 +33,7 @@ itsdangerous==0.24
 Jinja2==2.8
 livereload==2.4.1
 lob==2.25
-lxml==3.6.4
+lxml==4.9.1
 Mail==2.1.0
 Mako==1.0.4
 MarkupSafe==0.23
