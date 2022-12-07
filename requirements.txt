@@ -7,7 +7,7 @@ backports-abc==0.4
 BareNecessities==0.2.8
 BeautifulSoup==3.2.1
 blinker==1.4
-certifi==2016.8.31
+certifi==2022.12.7
 click==6.6
 clint==0.5.1
 dominate==2.2.1
